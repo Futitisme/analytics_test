@@ -1,0 +1,3 @@
+([('weather_app',
+   '/Users/lenavasilev/programming_spring_2024/test_lab/dist/weather_app',
+   'EXECUTABLE')],)
